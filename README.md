@@ -264,6 +264,21 @@ MIT License
 
 This project uses the UCSD Amazon Product Dataset under its respective license terms.
 
+
+---
+
+## 👥 Team
+
+Group 12, Arizona State University, Fall 2025
+
+| Member | Role |
+|---|---|
+| Khush Manchanda | Planner & orchestration (prompts, JSON schemas) |
+| Arjun Ranjan | Retrieval & grounding (indexes, citations) |
+| Deepanshu Jain | Scoring & explanation (ranking, pros/cons, evaluation) |
+| Ulagarchana Ulaga Narasimhan | Executor flows (search, product pages, extraction) |
+| Harshini BV | Testing & QA (record/replay, performance) |
+
 ---
 
 ---
